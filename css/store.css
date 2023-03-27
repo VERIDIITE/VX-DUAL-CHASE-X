@@ -1,0 +1,377 @@
+/* screen - store */
+
+.store {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 14.8px 10.6px;
+  width: 375px;
+}
+
+.store .menu-motion {
+  align-items: center;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 14px;
+  width: 18px;
+}
+
+.store .path-837 {
+  height: 2px;
+  margin-left: 8.0px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.store .path-838 {
+  height: 2px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.store .path-839 {
+  height: 2px;
+  margin-right: 8.0px;
+  object-fit: cover;
+  width: 10px;
+}
+
+.store .overlap-group5 {
+  height: 148px;
+  margin-left: 8.0px;
+  margin-top: 35px;
+  position: relative;
+  width: 277px;
+}
+
+.store .group-container {
+  height: 129px;
+  left: 91px;
+  position: absolute;
+  top: 0;
+  width: 186px;
+}
+
+.store .group-29 {
+  align-items: flex-start;
+  background-image: url(../img/image-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 129px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 186px;
+  padding: 16px 61px;
+  position: absolute;
+  top: 0;
+}
+
+.store .dual-chase-logo {
+  border-radius: 3px;
+  height: 36px;
+  object-fit: cover;
+  width: 47px;
+}
+
+.store .group-30 {
+  display: flex;
+  height: 36px;
+  left: 78px;
+  position: absolute;
+  top: 16px;
+  width: 47px;
+}
+
+.store .dual-chase-logo-1 {
+  border-radius: 3px;
+  flex: 1;
+  object-fit: cover;
+  width: 47px;
+}
+
+.store .samples {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  opacity: 0.84;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.store .overlap-group4 {
+  height: 64px;
+  margin-right: 1.0px;
+  margin-top: 32px;
+  position: relative;
+  width: 302px;
+}
+
+.store .rectangle-21 {
+  background-color: var(--eucalyptus);
+  border: 1px solid;
+  cursor: pointer;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 302px;
+}
+
+.store .image-11 {
+  border-radius: 7px;
+  height: 32px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 33px;
+}
+
+.store .packs {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.store .x1ee6307d58098b6e614f9e66d4cd7fc2 {
+  height: 64px;
+  left: 235px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.store .overlap-group6 {
+  height: 60px;
+  margin-right: 1.0px;
+  margin-top: 11px;
+  position: relative;
+  width: 302px;
+}
+
+.store .rectangle-2 {
+  background-color: var(--mine-shaft);
+  border: 1px solid;
+  cursor: pointer;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 302px;
+}
+
+.store .image-12 {
+  height: 36px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 33px;
+}
+
+.store .instruments {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.store .overlap-group9 {
+  height: 60px;
+  margin-right: 1.0px;
+  margin-top: 12px;
+  position: relative;
+  width: 302px;
+}
+
+.store .rectangle-2-1 {
+  background-color: var(--eucalyptus);
+  border: 1px solid;
+  cursor: pointer;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 302px;
+}
+
+.store .image-13 {
+  height: 32px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 49px;
+}
+
+.store .genres {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.store .overlap-group {
+  height: 60px;
+  margin-right: 1.0px;
+  margin-top: 13px;
+  position: relative;
+  width: 302px;
+}
+
+.store .image-15 {
+  height: 36px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.store .likes {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.store .image-14 {
+  height: 34px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 37px;
+}
+
+.store .collections {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.store .overlap-group7 {
+  height: 65px;
+  margin-right: 1.0px;
+  margin-top: 12px;
+  position: relative;
+  width: 302px;
+}
+
+.store .image-16 {
+  height: 38px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 31px;
+}
+
+.store .all-downloads {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.store .group-54 {
+  align-items: flex-end;
+  display: flex;
+  gap: 95px;
+  margin-left: 3.84px;
+  margin-top: 77px;
+  min-width: 257px;
+}
+
+.store .icon-feather-home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  min-width: 20px;
+}
+
+.store .overlap-group-1 {
+  align-items: flex-end;
+  background-image: url(../img/path-6-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 24px;
+  margin-top: -1px;
+  min-width: 22px;
+  padding: 0.0px 6.7px;
+}
+
+.store .path-7 {
+  height: 13px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.store .icon-feather-plus-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  min-width: 22px;
+}
+
+.store .path-container {
+  background-image: url(../img/path-8-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: 24px;
+}
+
+.store .path-9 {
+  height: 11px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.store .path-10 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 11px;
+}
+
+.store .icon-heart {
+  cursor: pointer;
+  height: 22px;
+  margin-bottom: -0.53px;
+  object-fit: cover;
+  width: 25px;
+}

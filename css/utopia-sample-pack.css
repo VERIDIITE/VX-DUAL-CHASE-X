@@ -1,0 +1,604 @@
+/* screen - utopia-sample-pack */
+
+.utopia-sample-pack {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  height: 812px;
+  overflow: hidden;
+  padding: 16px 0;
+  width: 375px;
+}
+
+.utopia-sample-pack .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-right: -6.0px;
+  min-height: 207px;
+  width: 332px;
+}
+
+.utopia-sample-pack .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  min-width: 332px;
+}
+
+.utopia-sample-pack .artworks-t4j-krxovp-1 {
+  height: 131px;
+  margin-top: 17.0px;
+  object-fit: cover;
+  width: 131px;
+}
+
+.utopia-sample-pack .overlap-group3 {
+  height: 174px;
+  position: relative;
+  width: 195px;
+}
+
+.utopia-sample-pack .place {
+  -webkit-text-stroke: 1px #8f3035;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .atlas-audio {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 104px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .u {
+  -webkit-text-stroke: 1px var(--cyber-grape);
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 94px;
+  opacity: 0.09;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ic-social-youtube {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  left: 77px;
+  min-width: 24px;
+  padding: 4.7px 2.0px;
+  position: absolute;
+  top: 137px;
+}
+
+.utopia-sample-pack .ic-social-youtube-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  justify-content: center;
+  min-width: 20px;
+}
+
+.utopia-sample-pack .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/path-471-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  margin-top: -1.0px;
+  min-width: 22px;
+  padding: 4.2px 7.2px;
+}
+
+.utopia-sample-pack .path-472 {
+  height: 8px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.utopia-sample-pack .ic-social-instagram {
+  display: flex;
+  height: 24px;
+  left: 43px;
+  position: absolute;
+  top: 137px;
+  width: 24px;
+}
+
+.utopia-sample-pack .ic-social {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 3px;
+  min-width: 18px;
+}
+
+.utopia-sample-pack .ellipse-container {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 6px;
+  height: 20px;
+  margin-top: -1px;
+  position: relative;
+  width: 20px;
+}
+
+.utopia-sample-pack .ellipse-154 {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 4px;
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+
+.utopia-sample-pack .ellipse-155 {
+  background-color: var(--black);
+  border-radius: 1px;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.utopia-sample-pack .ic-social-facebook {
+  display: flex;
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 137px;
+  width: 24px;
+}
+
+.utopia-sample-pack .overlap-group-1 {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 6px;
+  height: 20px;
+  margin-top: -1px;
+  position: relative;
+  width: 20px;
+}
+
+.utopia-sample-pack .path-466 {
+  height: 16px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.utopia-sample-pack .line-583 {
+  height: 2px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.utopia-sample-pack .soundwave {
+  background-image: url(../img/path-13-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 174px;
+  left: 0;
+  mix-blend-mode: soft-light;
+  opacity: 0.41;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.utopia-sample-pack .container-right {
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  width: 248px;
+}
+
+.utopia-sample-pack .wireframe-quicksearch {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--blackcurrant);
+  border-radius: 4px;
+  display: flex;
+  min-width: 164px;
+  padding: 2px 15px;
+}
+
+.utopia-sample-pack .search {
+  background-color: transparent;
+  border: 0;
+  color: #823037;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 28px;
+  padding: 0;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.utopia-sample-pack .search::placeholder {
+  color: #82303799;
+}
+
+.utopia-sample-pack .wireframe-language-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -9.6px;
+  width: 47px;
+}
+
+.utopia-sample-pack .uk {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.utopia-sample-pack .wireframe-icon-down {
+  align-items: flex-end;
+  display: flex;
+  min-width: 24px;
+  padding: 7.8px 5.2px;
+}
+
+.utopia-sample-pack .union-11 {
+  height: 8px;
+  object-fit: cover;
+  width: 13px;
+}
+
+.utopia-sample-pack .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 490px;
+  margin-left: 17px;
+  min-width: 296px;
+}
+
+.utopia-sample-pack .artworks-tjkrxovpzb-container {
+  align-items: flex-end;
+  background-color: #a78f92d9;
+  border: 2px solid;
+  border-color: var(--martinique-2);
+  box-shadow: inset 5px 3px 6px #00000029;
+  display: flex;
+  filter: blur(50px);;
+  flex-direction: column;
+  gap: 11px;
+  min-height: 490px;
+  padding: 0 15px;
+  width: 84px;
+}
+
+.utopia-sample-pack .artworks-t4j-krxovp-2 {
+  height: 39px;
+  margin-top: -2px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.utopia-sample-pack .artworks-t4j-krxovp {
+  height: 39px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.utopia-sample-pack .ut_aa_-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 13.5px;
+  min-height: 416px;
+  width: 98px;
+}
+
+.utopia-sample-pack .ut_aa_01_unleash {
+  letter-spacing: 0;
+  line-height: 8px;
+  min-height: 11px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.hidden {
+  display: none;
+}
+
+.item-1 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}
+
+.item-2 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.item-3 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 355px;
+  white-space: nowrap;
+}
+
+.item-4 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 405px;
+  white-space: nowrap;
+}
+
+.item-5 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 455px;
+  white-space: nowrap;
+}
+
+.item-6 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 505px;
+  white-space: nowrap;
+}
+
+.item-7 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 555px;
+  white-space: nowrap;
+}
+
+.item-8 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 605px;
+  white-space: nowrap;
+}
+
+.item-9 {
+  font-family: var(--font-family-work_sans);
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  left: 110px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 655px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ut_aa_51_africa {
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-top: 39px;
+  min-height: 11px;
+  min-width: 76px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ut_aa {
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-top: 39px;
+  min-height: 11px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ut_aa_05_takeout {
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-top: 43px;
+  min-height: 11px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ut_aa_30_relwe {
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-top: 35px;
+  min-height: 11px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .ut_aa_100_shout {
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-top: 44px;
+  min-height: 11px;
+  white-space: nowrap;
+}
+
+.utopia-sample-pack .heart-bold-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  margin-left: 69px;
+  margin-top: 8px;
+  min-height: 424px;
+  width: 24px;
+}
+
+.utopia-sample-pack .heart-bold {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+  opacity: 0.5;
+  padding: 2px 2.0px;
+}
+
+.utopia-sample-pack .icon-heart {
+  height: 19px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.utopia-sample-pack .group-59 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  gap: 95px;
+  margin-left: 3.84px;
+  min-width: 257px;
+}
+
+.utopia-sample-pack .icon-feather-home {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  min-width: 20px;
+}
+
+.utopia-sample-pack .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(../img/path-6-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 24px;
+  margin-top: -1.0px;
+  min-width: 22px;
+  padding: 0 6.7px;
+}
+
+.utopia-sample-pack .path-7 {
+  height: 13px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 9px;
+}
+
+.utopia-sample-pack .icon-feather-plus-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  min-width: 22px;
+}
+
+.utopia-sample-pack .path-container {
+  background-image: url(../img/path-8-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  margin-top: -1.0px;
+  position: relative;
+  width: 24px;
+}
+
+.utopia-sample-pack .path-9 {
+  height: 11px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.utopia-sample-pack .path-10 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 11px;
+}
+
+.utopia-sample-pack .icon-heart-1 {
+  cursor: pointer;
+  height: 22px;
+  margin-bottom: -0.53px;
+  object-fit: cover;
+  width: 25px;
+}

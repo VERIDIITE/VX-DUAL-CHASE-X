@@ -1,0 +1,512 @@
+/* activity-notification */
+
+.activity-notification {
+    align-items: center;
+    background-color: var(--sunglow);
+    display: flex;
+    flex-direction: column;
+    height: 812px;
+    padding: 11px 0.7px;
+    width: 376px;
+}
+
+.activity-notification .flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 293px;
+    height: 34px;
+    margin-right: 3.5px;
+    min-width: 358px;
+}
+
+.activity-notification .overlap-group6 {
+    align-items: flex-start;
+    background-image: url("../img/image-9-1@1x.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    min-width: 34px;
+}
+
+.activity-notification .image-9 {
+    cursor: pointer;
+    height: 31px;
+    object-fit: cover;
+    width: 34px;
+}
+
+.activity-notification .icon-awesome-app-store-ios {
+    align-self: flex-end;
+    height: 32px;
+    object-fit: cover;
+    width: 32px;
+}
+
+.activity-notification .title {
+    align-self: flex-start;
+    color: var(--black);
+    font-family: var(--font-family-work_sans);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-left: 19.28px;
+    margin-top: 35px;
+    min-height: 49px;
+    white-space: nowrap;
+}
+
+.activity-notification .you-have-4-new-sample-packs {
+    align-self: flex-start;
+    color: var(--black);
+    font-family: var(--font-family-work_sans);
+    font-size: var(--font-size-l);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-left: 19.28px;
+    margin-top: 9px;
+    min-height: 20px;
+    white-space: nowrap;
+}
+
+.activity-notification .overlap-group4 {
+    height: 50px;
+    margin-top: 20px;
+    position: relative;
+    width: 336px;
+}
+
+.activity-notification .group-23 {
+    align-items: flex-start;
+    background-color: var(--sunglow);
+    border: 3px solid;
+    border-color: var(--black);
+    display: flex;
+    gap: 7px;
+    height: 50px;
+    left: 0;
+    min-width: 336px;
+    position: absolute;
+    top: 0;
+}
+
+.activity-notification .rectangle-7 {
+    background-color: var(--black);
+    border: 1px solid;
+    height: 50px;
+    margin-left: -3px;
+    margin-top: -3px;
+    width: 61px;
+}
+
+.activity-notification .icon-light_bulb {
+    align-self: center;
+    height: 26px;
+    margin-bottom: 8px;
+    object-fit: cover;
+    width: 25px;
+}
+
+.activity-notification .text {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+}
+
+.activity-notification .veridiite-vanquish {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.activity-notification .overlap-group {
+    height: 50px;
+    margin-top: 10px;
+    position: relative;
+    width: 336px;
+}
+
+.activity-notification .group-2 {
+    align-items: flex-start;
+    background-color: var(--sunglow);
+    border: 3px solid;
+    border-color: var(--black);
+    display: flex;
+    gap: 3px;
+    height: 50px;
+    left: 0;
+    min-width: 336px;
+    position: absolute;
+    top: 0;
+}
+
+.activity-notification .rectangle-1 {
+    background-color: var(--black);
+    border: 1px solid;
+    height: 50px;
+    margin-top: -3px;
+    width: 61px;
+}
+
+.activity-notification .image-8 {
+    align-self: center;
+    height: 31px;
+    margin-bottom: 5px;
+    object-fit: cover;
+    width: 28px;
+}
+
+.activity-notification .heimanu-new-wave {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.activity-notification .skeler-night-drive {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.activity-notification .juche-nfs {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.activity-notification .overlap-group7 {
+    align-self: flex-end;
+    height: 270px;
+    position: relative;
+    width: 355px;
+}
+
+.activity-notification .overlap-group1 {
+    height: 270px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 355px;
+}
+
+.activity-notification .star-container {
+    height: 223px;
+    left: 132px;
+    position: absolute;
+    top: 0;
+    width: 223px;
+}
+
+.activity-notification .star-3 {
+    height: 72px;
+    left: 75px;
+    object-fit: cover;
+    position: absolute;
+    top: 75px;
+    width: 72px;
+}
+
+.activity-notification .star-3_line-gp {
+    align-items: flex-start;
+    display: flex;
+    gap: 38px;
+    height: 223px;
+    left: 0;
+    min-width: 223px;
+    position: absolute;
+    top: 0;
+}
+
+.activity-notification .flex-row-1 {
+    align-items: center;
+    display: flex;
+    gap: 39px;
+    height: 223px;
+    min-width: 112px;
+}
+
+.activity-notification .star-_-container {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+    min-height: 158px;
+    width: 73px;
+}
+
+.activity-notification .star-3_1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 4px;
+    height: 40px;
+    min-width: 40px;
+}
+
+.activity-notification .line-7 {
+    height: 26px;
+    margin-left: -1px;
+    margin-top: -0.71px;
+    object-fit: cover;
+    width: 26px;
+}
+
+.activity-notification .line {
+    align-self: flex-end;
+    height: 11px;
+    margin-bottom: -0.71px;
+    object-fit: cover;
+    width: 11px;
+}
+
+.activity-notification .star-3_2 {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    gap: 8px;
+    height: 1px;
+    margin-top: 39px;
+    min-width: 56px;
+}
+
+.activity-notification .line-1 {
+    height: 2px;
+    margin-top: -1px;
+    object-fit: cover;
+    width: 35px;
+}
+
+.activity-notification .line-1-1 {
+    height: 2px;
+    margin-top: -1px;
+    object-fit: cover;
+    width: 13px;
+}
+
+.activity-notification .star-3_3 {
+    align-items: flex-start;
+    display: flex;
+    gap: 4px;
+    height: 40px;
+    margin-top: 38px;
+    min-width: 40px;
+}
+
+.activity-notification .line-11 {
+    align-self: flex-end;
+    height: 26px;
+    margin-bottom: -0.71px;
+    margin-left: -1px;
+    object-fit: cover;
+    width: 26px;
+}
+
+.activity-notification .line-1-2 {
+    height: 11px;
+    margin-top: -0.71px;
+    object-fit: cover;
+    width: 11px;
+}
+
+.activity-notification .star-_-container-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 110px;
+    min-height: 223px;
+    width: 1px;
+}
+
+.activity-notification .star-3_8 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 56px;
+    padding: 0;
+    width: 1px;
+}
+
+.activity-notification .line-5 {
+    height: 35px;
+    margin-left: -1px;
+    object-fit: cover;
+    width: 2px;
+}
+
+.activity-notification .line-6 {
+    height: 13px;
+    margin-left: -1px;
+    object-fit: cover;
+    width: 2px;
+}
+
+.activity-notification .star-3_4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 56px;
+    width: 1px;
+}
+
+.activity-notification .line-14 {
+    height: 13px;
+    margin-left: -1px;
+    object-fit: cover;
+    width: 2px;
+}
+
+.activity-notification .line-13 {
+    height: 35px;
+    margin-left: -1px;
+    object-fit: cover;
+    width: 2px;
+}
+
+.activity-notification .star-_-container-2 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+    min-height: 158px;
+    width: 73px;
+}
+
+.activity-notification .star-3_7 {
+    align-items: flex-start;
+    display: flex;
+    gap: 4px;
+    height: 40px;
+    justify-content: flex-end;
+    min-width: 40px;
+}
+
+.activity-notification .line-19 {
+    height: 26px;
+    margin-top: -0.71px;
+    object-fit: cover;
+    width: 26px;
+}
+
+.activity-notification .star-3_6 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    gap: 8px;
+    height: 1px;
+    justify-content: flex-end;
+    margin-top: 39px;
+    min-width: 56px;
+}
+
+.activity-notification .star-3_5 {
+    align-items: flex-start;
+    display: flex;
+    gap: 4px;
+    height: 40px;
+    justify-content: flex-end;
+    margin-top: 38px;
+    min-width: 40px;
+}
+
+.activity-notification .line-15 {
+    align-self: flex-end;
+    height: 26px;
+    margin-bottom: -0.71px;
+    object-fit: cover;
+    width: 26px;
+}
+
+.activity-notification .group-28 {
+    align-items: flex-start;
+    background-color: var(--sunglow);
+    border: 3px solid;
+    border-color: var(--black);
+    display: flex;
+    gap: 3px;
+    height: 50px;
+    left: 0;
+    min-width: 336px;
+    position: absolute;
+    top: 220px;
+}
+
+.activity-notification .group-27 {
+    align-items: flex-start;
+    background-color: var(--sunglow);
+    border: 3px solid;
+    border-color: var(--black);
+    display: flex;
+    gap: 3px;
+    height: 50px;
+    left: 0;
+    min-width: 336px;
+    position: absolute;
+    top: 160px;
+}
+
+.activity-notification .juche-valien {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 175px;
+    white-space: nowrap;
+}
+
+.activity-notification .juche-rts {
+    left: 97px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 235px;
+    white-space: nowrap;
+}
+
+.activity-notification .text-5 {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    top: 178px;
+    white-space: nowrap;
+}
+
+.activity-notification .text-6 {
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    top: 238px;
+    white-space: nowrap;
+}
+
+.activity-notification .address {
+    color: var(--black);
+    font-family: var(--font-family-work_sans);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    top: 124px;
+    white-space: nowrap;
+}

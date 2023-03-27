@@ -1,0 +1,220 @@
+/* screen - new */
+
+.new {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.new .overlap-group2 {
+  height: 775px;
+  margin-top: -0.3px;
+  position: relative;
+  width: 349px;
+}
+
+.new .path-24 {
+  height: 735px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 320px;
+}
+
+.new .artworks-t4j-krxovp {
+  height: 216px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 216px;
+}
+
+.new .fxlicia-hollow-sample-pack-wav {
+  height: 215px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 90px;
+}
+
+.new .artworks-000613815902-17igaf-t500x500 {
+  height: 250px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 305px;
+}
+
+.new .artworks-o9-q-azm-jw {
+  height: 106px;
+  left: 36px;
+  mix-blend-mode: hard-light;
+  object-fit: cover;
+  position: absolute;
+  top: 534px;
+  width: 106px;
+}
+
+.new .line-1 {
+  height: 131px;
+  left: 0;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.new .line-3 {
+  height: 30px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.new .group-3 {
+  display: flex;
+  flex-direction: column;
+  height: 410px;
+  justify-content: space-between;
+  left: 105px;
+  position: absolute;
+  top: 241px;
+  width: 87px;
+}
+
+.new .group-4 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 19px;
+  min-width: 66px;
+  padding: 2.5px 0;
+}
+
+.new .overlap-group {
+  height: 14px;
+  position: relative;
+  width: 66px;
+}
+
+.new .rectangle-71 {
+  background-color: var(--red);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.new .exclusive {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.new .group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 19px;
+  min-width: 66px;
+  padding: 2.5px 0;
+}
+
+.new .unreleased {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 40px;
+  mix-blend-mode: overlay;
+  opacity: 0.57;
+  position: absolute;
+  top: 71px;
+  white-space: nowrap;
+}
+
+.new .dual-chase {
+  left: 56px;
+  letter-spacing: 1.20px;
+  line-height: 100px;
+  mix-blend-mode: overlay;
+  opacity: 0.3;
+  position: absolute;
+  top: 284px;
+  white-space: nowrap;
+}
+
+.new .artworks-o9-q-azm-jw-1 {
+  height: 106px;
+  left: 132px;
+  mix-blend-mode: hard-light;
+  object-fit: cover;
+  position: absolute;
+  top: 534px;
+  width: 106px;
+}
+
+.new .menu-bold {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  left: 7px;
+  min-width: 24px;
+  padding: 0 2px;
+  position: absolute;
+  top: 14px;
+}
+
+.new .menu-bold_1_ {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.new .artworks-o9-q-azm-jw-2 {
+  height: 106px;
+  left: 235px;
+  mix-blend-mode: hard-light;
+  object-fit: cover;
+  position: absolute;
+  top: 534px;
+  width: 106px;
+}
+
+.new .artworks-000531051855-355vok-t500x500 {
+  height: 137px;
+  left: 198px;
+  object-fit: cover;
+  position: absolute;
+  top: 617px;
+  width: 137px;
+}
+
+.new .rxckson-champion-drill-kit-2021-wav {
+  height: 137px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 617px;
+  width: 138px;
+}

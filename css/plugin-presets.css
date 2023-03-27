@@ -1,0 +1,1038 @@
+/* fm8-ethereal-presets */
+
+.fm8-ethereal-presets {
+  background: linear-gradient(180deg, #f6edab 0%, #753739 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 812px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.fm8-ethereal-presets .line-1-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/line-1-1@1x.png");
+  background-size: 100% 100%;
+  height: 131px;
+  left: -0px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 175px;
+}
+
+.fm8-ethereal-presets .line-4-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/line-4-1@1x.png");
+  background-size: 100% 100%;
+  height: 118px;
+  left: 31px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 236px;
+  width: 203px;
+}
+
+.fm8-ethereal-presets .line-9-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/line-9-1@1x.png");
+  background-size: 100% 100%;
+  height: 98px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  width: 142px;
+}
+
+.fm8-ethereal-presets .image-22-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url("../img/image-22-4@1x.png");
+  background-size: 100% 100%;
+  height: 243px;
+  left: 0;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 569px;
+  width: 375px;
+}
+
+.fm8-ethereal-presets .free-download-C61RwL {
+  --z-index: 4;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #eed094;
+  font-family: "Work Sans", Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 23px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 444px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.fm8-ethereal-presets .fm8-ethereal-presets-C61RwL {
+  --z-index: 5;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 412px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.fm8-ethereal-presets .image-18-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url("../img/image-18@1x.png");
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 27px;
+  left: 7px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 27px;
+}
+
+.fm8-ethereal-presets .expertly-designed-fm-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 63px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 483px;
+  width: 284px;
+}
+
+.fm8-ethereal-presets .star-half-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 23px;
+  left: 60px;
+  opacity: 0.7;
+  position: absolute;
+  top: 606px;
+  width: 23px;
+}
+
+.fm8-ethereal-presets .icon-star-WEOOhq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-6-14@1x.png");
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.fm8-ethereal-presets .star-half-VMr6Om {
+  --z-index: 9;
+  background-color: transparent;
+  height: 23px;
+  left: 60px;
+  opacity: 0.7;
+  position: absolute;
+  top: 647px;
+  width: 23px;
+}
+
+.fm8-ethereal-presets .icon-star-bmksp2 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-6-14@1x.png");
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.fm8-ethereal-presets .address-C61RwL {
+  --z-index: 10;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 612px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.fm8-ethereal-presets .fm8-royalty-free-download-C61RwL {
+  --z-index: 11;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 654px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.fm8-ethereal-presets .download-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 29px;
+  left: 53px;
+  opacity: 1;
+  position: absolute;
+  top: 435px;
+  width: 36px;
+}
+
+.fm8-ethereal-presets .path-7-Z2deF4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-7-10@1x.png");
+  background-size: 100% 100%;
+  bottom: 0;
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.fm8-ethereal-presets .path-8-Z2deF4 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-8-10@1x.png");
+  background-size: 100% 100%;
+  bottom: calc(32.07% - 3px);
+  height: 8px;
+  left: calc(50% - 7px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 14px;
+}
+
+.fm8-ethereal-presets .path-9-Z2deF4 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-9-10@1x.png");
+  background-size: 100% 100%;
+  height: 20px;
+  left: calc(50% - 1px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.fm8-ethereal-presets .image-20-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url("../img/image-20-4@1x.png");
+  background-size: 100% 100%;
+  height: 375px;
+  left: 0;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.fm8-ethereal-presets .tikcode-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}
+
+.fm8-ethereal-presets .path-1310-ZYxDBX {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-1310-1@1x.png");
+  background-size: 100% 100%;
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.fm8-ethereal-presets .path-1311-ZYxDBX {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-1310-1@1x.png");
+  background-size: 100% 100%;
+  height: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 8px;
+}
+
+.fm8-ethereal-presets .path-1312-ZYxDBX {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-1310-1@1x.png");
+  background-size: 100% 100%;
+  bottom: 0;
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 8px;
+}
+
+.fm8-ethereal-presets .path-1313-ZYxDBX {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url("../img/path-1313-1@1x.png");
+  background-size: 100% 100%;
+  bottom: 0;
+  height: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(37.5% - 1px);
+  width: 2px;
+}
+
+.fm8-ethereal-presets .path-1314-ZYxDBX {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url("../img/path-1313-1@1x.png");
+  background-size: 100% 100%;
+  bottom: 0;
+  height: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18.75%;
+  width: 2px;
+}
+
+.fm8-ethereal-presets .path-1315-ZYxDBX {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url("../img/path-1313-1@1x.png");
+  background-size: 100% 100%;
+  bottom: 0;
+  height: 8px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0;
+  width: 2px;
+}
+/* screen - plugin-presets */
+
+.plugin-presets {
+  background-color: #000000;
+  height: 812px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.plugin-presets .rectangle-498-C61RwL {
+  --z-index: 0;
+  -webkit-backdrop-filter: blur(16px) brightness(115%);
+  backdrop-filter: blur(16px) brightness(115%);
+  background-color: transparent;
+  border: 2px solid;
+  border-color: #ffffff;
+  box-shadow: inset -92px -27px 59px #b4b4b429;
+  height: 695px;
+  left: 32px;
+  opacity: 0.26;
+  position: absolute;
+  top: 39px;
+  width: 320px;
+}
+
+.plugin-presets .rectangle-20-C61RwL {
+  --z-index: 1;
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #ffffff;
+  height: 695px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  width: 320px;
+}
+
+.plugin-presets .line-2-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/line-2@1x.png");
+  background-size: 100% 100%;
+  height: 144px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 74px;
+  width: 196px;
+}
+
+.plugin-presets .line-6-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url("../img/line-6-1@1x.png");
+  background-size: 100% 100%;
+  height: 60px;
+  left: 31px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 476px;
+  width: 180px;
+}
+
+.plugin-presets .line-7-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url("../img/line-7-1@1x.png");
+  background-size: 100% 100%;
+  height: 1px;
+  left: 218px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 476px;
+  width: 127px;
+}
+
+.plugin-presets .line-8-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url("../img/line-8-1@1x.png");
+  background-size: 100% 100%;
+  height: 109px;
+  left: 182px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 535px;
+  width: 160px;
+}
+
+.plugin-presets .line-9-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url("../img/line-9-1@1x.png");
+  background-size: 100% 100%;
+  height: 98px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  width: 142px;
+}
+
+.plugin-presets .plugin-presets-C61RwL {
+  --z-index: 7;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .icon-awesome-pagelines-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url("../img/icon-awesome-pagelines@1x.png");
+  background-size: 100% 100%;
+  height: 35px;
+  left: 174px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 72px;
+  width: 27px;
+}
+
+.plugin-presets .browse-our-collection-of-plugin-presets-C61RwL {
+  --z-index: 9;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 112px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .fm8-ethereal-presets_desktop-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url("../img/fm8etherealpresets-desktop@1x.png");
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 128px;
+  left: 52px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 154px;
+  width: 128px;
+}
+
+.plugin-presets #etheral {
+  width: 128px;
+}
+
+.plugin-presets .serum-atmospheres_desktop-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url("../img/serumatmospheres-desktop@1x.png");
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 128px;
+  left: 201px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 154px;
+  width: 128px;
+}
+
+.plugin-presets #imageId {
+  width: 128px;
+}
+
+.plugin-presets .monumental-dubstep_desktop-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url("../img/monumentaldubstep-desktop@1x.png");
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 126px;
+  left: 55px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 338px;
+  width: 126px;
+}
+
+.plugin-presets #dubstepImageId {
+  width: 128px;
+}
+
+.plugin-presets .serum-hybrid-trap_desktop-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url("../img/serumhybridtrap-desktop@1x.png");
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 128px;
+  left: 202px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 336px;
+  width: 128px;
+}
+
+.plugin-presets #hybridtrapImage {
+  width: 128px;
+}
+
+.plugin-presets .sylenth-drivewave-noir-vol1_desktop-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 179px;
+  left: 112px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 520px;
+  width: 179px;
+}
+
+.plugin-presets #sylenthimagev {
+  width: 179px;
+}
+
+.plugin-presets .fm8-ethereal-presets-C61RwL {
+  --z-index: 15;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 294px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .serum-atmospheres-C61RwL {
+  --z-index: 16;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 201px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 294px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .serum-monumental-dubstep-C61RwL {
+  --z-index: 17;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .serum-hybrid-trap-C61RwL {
+  --z-index: 18;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .sylenth-drivewave-noir-vol-1-C61RwL {
+  --z-index: 19;
+  -webkit-text-stroke: 1px #ffffff;
+  background-color: transparent;
+  color: #000000;
+  font-family: "Work Sans", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 714px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plugin-presets .icon-feather-plus-circle-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  height: 30px;
+  left: 103px;
+  opacity: 1;
+  position: absolute;
+  top: 200px;
+  width: 30px;
+}
+
+.plugin-presets .path-21-WTLb2b {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-21-1@1x.png");
+  background-size: 100% 100%;
+  height: calc(100% + 3px);
+  left: -2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: calc(100% + 3px);
+}
+
+.plugin-presets .path-22-WTLb2b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-22-1@1x.png");
+  background-size: 100% 100%;
+  height: 15px;
+  left: calc(50% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 8px);
+  width: 3px;
+}
+
+.plugin-presets .path-23-WTLb2b {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-23-1@1x.png");
+  background-size: 100% 100%;
+  height: 3px;
+  left: calc(50% - 8px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 2px);
+  width: 15px;
+}
+
+.plugin-presets .icon-feather-plus-circle-VMr6Om {
+  --z-index: 21;
+  background-color: transparent;
+  height: 30px;
+  left: 250px;
+  opacity: 1;
+  position: absolute;
+  top: 200px;
+  width: 30px;
+}
+
+.plugin-presets .path-21-Oc7JCx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-21-1@1x.png");
+  background-size: 100% 100%;
+  height: calc(100% + 3px);
+  left: -2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: calc(100% + 3px);
+}
+
+.plugin-presets .path-22-Oc7JCx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-22-1@1x.png");
+  background-size: 100% 100%;
+  height: 15px;
+  left: calc(50% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 8px);
+  width: 3px;
+}
+
+.plugin-presets .path-23-Oc7JCx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-23-1@1x.png");
+  background-size: 100% 100%;
+  height: 3px;
+  left: calc(50% - 8px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 2px);
+  width: 15px;
+}
+
+.plugin-presets .icon-feather-plus-circle-mzXdH9 {
+  --z-index: 22;
+  background-color: transparent;
+  height: 30px;
+  left: 103px;
+  opacity: 1;
+  position: absolute;
+  top: 378px;
+  width: 30px;
+}
+
+.plugin-presets .path-21-KxDAAl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-21-1@1x.png");
+  background-size: 100% 100%;
+  height: calc(100% + 3px);
+  left: -2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: calc(100% + 3px);
+}
+
+.plugin-presets .path-22-KxDAAl {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-22-1@1x.png");
+  background-size: 100% 100%;
+  height: 15px;
+  left: calc(50% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 8px);
+  width: 3px;
+}
+
+.plugin-presets .path-23-KxDAAl {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-23-1@1x.png");
+  background-size: 100% 100%;
+  height: 3px;
+  left: calc(50% - 8px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 2px);
+  width: 15px;
+}
+
+.plugin-presets .icon-feather-plus-circle-QxM5SU {
+  --z-index: 23;
+  background-color: transparent;
+  height: 30px;
+  left: 252px;
+  opacity: 1;
+  position: absolute;
+  top: 378px;
+  width: 30px;
+}
+
+.plugin-presets .path-21-tDhWZx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-21-1@1x.png");
+  background-size: 100% 100%;
+  height: calc(100% + 3px);
+  left: -2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: calc(100% + 3px);
+}
+
+.plugin-presets .path-22-tDhWZx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-22-1@1x.png");
+  background-size: 100% 100%;
+  height: 15px;
+  left: calc(50% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 8px);
+  width: 3px;
+}
+
+.plugin-presets .path-23-tDhWZx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-23-1@1x.png");
+  background-size: 100% 100%;
+  height: 3px;
+  left: calc(50% - 8px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 2px);
+  width: 15px;
+}
+
+.plugin-presets .icon-feather-plus-circle-2P4qUJ {
+  --z-index: 24;
+  background-color: transparent;
+  height: 30px;
+  left: 187px;
+  opacity: 1;
+  position: absolute;
+  top: 590px;
+  width: 30px;
+}
+
+.plugin-presets .path-21-qnsbfB {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url("../img/path-21-1@1x.png");
+  background-size: 100% 100%;
+  height: calc(100% + 3px);
+  left: -2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -2px;
+  width: calc(100% + 3px);
+}
+
+.plugin-presets .path-22-qnsbfB {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url("../img/path-22-1@1x.png");
+  background-size: 100% 100%;
+  height: 15px;
+  left: calc(50% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 8px);
+  width: 3px;
+}
+
+.plugin-presets .path-23-qnsbfB {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url("../img/path-23-1@1x.png");
+  background-size: 100% 100%;
+  height: 3px;
+  left: calc(50% - 8px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(50% - 2px);
+  width: 15px;
+}

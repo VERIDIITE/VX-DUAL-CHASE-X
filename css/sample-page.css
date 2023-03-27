@@ -1,0 +1,372 @@
+/* sample-Parts - Page */
+
+.sample-page {
+    align-items: flex-end;
+    background-color: var(--black);
+    display: flex;
+    flex-direction: column;
+    height: 812px;
+    padding: 0 8px;
+    width: 375px;
+}
+
+.sample-page .menu-bold {
+    align-items: center;
+    align-self: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 24px;
+    margin-top: 14px;
+    min-width: 24px;
+    padding: 0 2px;
+    z-index: 8;
+}
+
+.sample-page .menu-bold_1_ {
+    height: 16px;
+    object-fit: cover;
+    width: 20px;
+}
+
+.sample-page .Packsgroups {
+    align-self: center;
+    height: 769px;
+    margin-top: 5px;
+    position: relative;
+    width: 319px;
+    z-index: 1;
+}
+
+.sample-page .artworks-t4j-krxovp {
+    height: 219px;
+    left: 86px;
+    object-fit: cover;
+    position: absolute;
+    top: 7px;
+    width: 219px;
+}
+
+.sample-page .path-container-2 {
+    height: 248px;
+    left: 15px;
+    position: absolute;
+    top: 230px;
+    width: 286px;
+}
+
+.sample-page .path-1317 {
+    height: 135px;
+    left: 63px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 160px;
+}
+
+.sample-page .path-1318 {
+    height: 248px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 286px;
+}
+
+.sample-page .path-1316 {
+    height: 1px;
+    left: 318px;
+    object-fit: cover;
+    position: absolute;
+    top: 110px;
+    width: 1px;
+}
+
+.sample-page .line-7 {
+    height: 1px;
+    left: 190px;
+    mix-blend-mode: color-dodge;
+    object-fit: cover;
+    position: absolute;
+    top: 433px;
+    width: 127px;
+}
+
+.sample-page .path-1319 {
+    height: 732px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 319px;
+}
+
+.sample-page .group-3 {
+    display: flex;
+    height: 19px;
+    left: 88px;
+    position: absolute;
+    top: 206px;
+    width: 66px;
+}
+
+.sample-page .group-4 {
+    align-items: flex-end;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--black);
+    display: flex;
+    flex: 1;
+    min-width: 66px;
+    padding: 2.5px 0;
+}
+
+.sample-page .overlap-group {
+    height: 14px;
+    position: relative;
+    width: 66px;
+}
+
+.sample-page .rectangle-71 {
+    background-color: var(--red);
+    border: 1px solid;
+    border-color: var(--black);
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 66px;
+}
+
+.sample-page .exclusive {
+    left: 6px;
+    letter-spacing: 0;
+    line-height: 8px;
+    position: absolute;
+    top: 2px;
+    white-space: nowrap;
+}
+
+.sample-page .groups {
+    display: flex;
+    height: 19px;
+    left: 10px;
+    position: absolute;
+    top: 484px;
+    width: 66px;
+}
+
+.sample-page .ellipse-158 {
+    -webkit-backdrop-filter: blur(50px) brightness(115%);
+    backdrop-filter: blur(50px) brightness(115%);
+    border: 1px solid;
+    border-color: #070707;
+    border-radius: 40.5px/42px;
+    box-shadow: inset 0 3px 6px #ff000029;
+    height: 84px;
+    left: 128px;
+    opacity: 0.71;
+    position: absolute;
+    top: 685px;
+    width: 81px;
+}
+
+.sample-page .fxlicia-hollow-sample-pack-wav {
+    height: 219px;
+    left: 40px;
+    object-fit: cover;
+    position: fixed;
+    top: 49px;
+    width: 72px;
+    z-index: 5;
+}
+
+.sample-page .artworks-t4j-krxovp-1 {
+    height: 219px;
+    left: 114px;
+    mix-blend-mode: hard-light;
+    object-fit: cover;
+    position: fixed;
+    top: 50px;
+    width: 219px;
+    z-index: 2;
+}
+
+.sample-page .icon-feather-plus-circle {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    left: 209px;
+    min-width: 30px;
+    opacity: 0.94;
+    position: fixed;
+    top: 139px;
+    z-index: 11;
+}
+
+.sample-page .path-container {
+    background-image: url("../img/path-21-1@1x.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 33px;
+    margin-top: -1.5px;
+    position: relative;
+    width: 33px;
+}
+
+.sample-page .path-22 {
+    height: 15px;
+    left: 15px;
+    object-fit: cover;
+    position: absolute;
+    top: 9px;
+    width: 3px;
+}
+
+.sample-page .path-23 {
+    height: 3px;
+    left: 9px;
+    object-fit: cover;
+    position: absolute;
+    top: 15px;
+    width: 15px;
+}
+
+.sample-page .icon-feather-plus-circle-1 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    left: 59px;
+    min-width: 30px;
+    opacity: 0.94;
+    position: fixed;
+    top: 139px;
+    z-index: 14;
+}
+
+.sample-page .artworks-000613815902-17igaf-t500x500 {
+    height: 248px;
+    left: 40px;
+    object-fit: cover;
+    position: fixed;
+    top: 273px;
+    width: 293px;
+    z-index: 3;
+}
+
+.sample-page .icon-feather-plus-circle-2 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    left: 183px;
+    min-width: 30px;
+    opacity: 0.94;
+    position: fixed;
+    top: 382px;
+    z-index: 9;
+}
+
+.sample-page .artworks-o9-q-azm-jw {
+    height: 91px;
+    left: 237px;
+    object-fit: cover;
+    position: fixed;
+    top: 526px;
+    width: 91px;
+    z-index: 4;
+}
+
+.sample-page .cartel-loops-vocal-chops-wav {
+    height: 192px;
+    left: 38px;
+    object-fit: cover;
+    position: fixed;
+    top: 527px;
+    width: 193px;
+    z-index: 7;
+}
+
+.sample-page .icon-feather-plus-circle-3 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    left: 272px;
+    min-width: 19px;
+    opacity: 0.94;
+    position: fixed;
+    top: 562px;
+    z-index: 12;
+}
+
+.sample-page .path-container-1 {
+    background-image: url("../img/path-21-3@1x.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 23px;
+    margin-top: -1.5px;
+    position: relative;
+    width: 22px;
+}
+
+.sample-page .path-22-1 {
+    height: 11px;
+    left: 10px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 3px;
+}
+
+.sample-page .path-23-1 {
+    height: 3px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 10px;
+    width: 11px;
+}
+
+.sample-page .icon-feather-plus-circle-4 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    left: 134px;
+    min-width: 30px;
+    opacity: 0.94;
+    position: fixed;
+    top: 608px;
+    z-index: 10;
+}
+
+.sample-page .atlas-audio-la-flame-in-utopia-wav {
+    height: 91px;
+    left: 237px;
+    object-fit: cover;
+    position: fixed;
+    top: 628px;
+    width: 91px;
+    z-index: 6;
+}
+
+.sample-page .icon-feather-plus-circle-5 {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 20px;
+    justify-content: center;
+    left: 273px;
+    min-width: 19px;
+    opacity: 0.94;
+    position: fixed;
+    top: 664px;
+    z-index: 13;
+}

@@ -1,0 +1,236 @@
+/* screen - serum-hybrid-trap */
+
+.serum-hybrid-trap {
+  align-items: center;
+  background: linear-gradient(180deg, #e1ac7f 0%, #6e5949 70.72%, #575553 75.32%, #545454 100%);
+  background-color: rgba(255,255,255,1.0);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.serum-hybrid-trap .overlap-group2 {
+  height: 377px;
+  margin-right: 0.1px;
+  position: relative;
+  width: 375px;
+}
+
+.serum-hybrid-trap .line-1 {
+  height: 131px;
+  left: 0;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.serum-hybrid-trap .line-4 {
+  height: 118px;
+  left: 31px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 203px;
+}
+
+.serum-hybrid-trap .image-20 {
+  height: 375px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 375px;
+}
+
+.serum-hybrid-trap .tikcode {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 2px;
+  height: 18px;
+  left: 19px;
+  min-width: 18px;
+  position: absolute;
+  top: 15px;
+}
+
+.serum-hybrid-trap .tikcode-item {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 18px;
+  width: 8px;
+}
+
+.serum-hybrid-trap .path-131 {
+  height: 8px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.serum-hybrid-trap .path-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 1px;
+  min-width: 8px;
+}
+
+.serum-hybrid-trap .path-131-1 {
+  height: 8px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.serum-hybrid-trap .serum-hybrid-trap-1 {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-right: 51px;
+  margin-top: 36px;
+  min-height: 20px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.serum-hybrid-trap .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 37px;
+  height: 39px;
+  margin-right: 2.0px;
+  margin-top: 2px;
+  min-width: 275px;
+}
+
+.serum-hybrid-trap .path-container-1 {
+  height: 29px;
+  position: relative;
+  width: 36px;
+}
+
+.serum-hybrid-trap .path-7 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 36px;
+}
+
+.serum-hybrid-trap .path-8 {
+  height: 8px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 14px;
+}
+
+.serum-hybrid-trap .path-9 {
+  height: 20px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.serum-hybrid-trap .free-download {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: flex-end;
+  color: #9c7a4f;
+  font-family: var(--font-family-work_sans);
+  font-size: 23px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 29px;
+  min-width: 202px;
+  white-space: nowrap;
+}
+
+.serum-hybrid-trap .monumental-offering {
+  height: 73px;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 3.0px;
+  margin-top: 10px;
+  width: 280px;
+}
+
+.serum-hybrid-trap .overlap-group1 {
+  height: 243px;
+  margin-top: 13px;
+  position: relative;
+  width: 375px;
+}
+
+.serum-hybrid-trap .line-9 {
+  height: 98px;
+  left: 29px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 142px;
+}
+
+.serum-hybrid-trap .image-22 {
+  height: 243px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.serum-hybrid-trap .star-half {
+  background-image: url(../img/path-6-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 62px;
+  opacity: 0.7;
+  position: absolute;
+  top: 37px;
+  width: 23px;
+}
+
+.serum-hybrid-trap .star-half-1 {
+  background-image: url(../img/path-6-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 62px;
+  opacity: 0.7;
+  position: absolute;
+  top: 78px;
+  width: 23px;
+}
+
+.serum-hybrid-trap .address {
+  -webkit-text-stroke: 1px var(--white);
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.serum-hybrid-trap .address-1 {
+  -webkit-text-stroke: 1px var(--white);
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}

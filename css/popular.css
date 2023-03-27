@@ -1,0 +1,368 @@
+/* screen - popular */
+
+.popular {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.popular .overlap-group3 {
+  height: 775px;
+  margin-top: -0.3px;
+  position: relative;
+  width: 346px;
+}
+
+.popular .rectangle-496 {
+  background-color: var(--black);
+  border: 2px solid;
+  border-color: var(--white);
+  height: 732px;
+  left: 27px;
+  position: absolute;
+  top: 43px;
+  width: 319px;
+}
+
+.popular .artworks-t4j-krxovp {
+  cursor: pointer;
+  height: 304px;
+  left: 36px;
+  mix-blend-mode: hard-light;
+  object-fit: cover;
+  position: absolute;
+  top: 210px;
+  width: 304px;
+}
+
+.popular .artworks-000613815902-17igaf-t500x500 {
+  cursor: pointer;
+  height: 250px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 305px;
+}
+
+.popular .line-1 {
+  height: 131px;
+  left: 0;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 175px;
+}
+
+.popular .line-7 {
+  height: 1px;
+  left: 219px;
+  mix-blend-mode: color-dodge;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 127px;
+}
+
+.popular .group-7 {
+  cursor: pointer;
+  display: flex;
+  height: 152px;
+  justify-content: space-between;
+  left: 36px;
+  position: absolute;
+  top: 49px;
+  width: 304px;
+}
+
+.popular .artworks-o9-q-azm-jw {
+  object-fit: cover;
+  width: 152px;
+}
+
+.popular .popular-1 {
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 40px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.popular .group-6 {
+  display: flex;
+  flex-direction: column;
+  height: 310px;
+  justify-content: space-between;
+  left: 253px;
+  position: absolute;
+  top: 231px;
+  width: 87px;
+}
+
+.popular .group-4 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 19px;
+  min-width: 66px;
+  padding: 2.5px 0;
+}
+
+.popular .overlap-group {
+  height: 14px;
+  position: relative;
+  width: 66px;
+}
+
+.popular .rectangle-71 {
+  background-color: var(--red);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.popular .exclusive {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.popular .group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 19px;
+  min-width: 66px;
+  padding: 2.5px 0;
+}
+
+.popular .exclusive-1 {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.popular .text-7 {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 800;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 40px;
+  opacity: 0.2;
+  position: absolute;
+  top: 218px;
+  white-space: nowrap;
+}
+
+.popular .text-8 {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 800;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 40px;
+  opacity: 0.24;
+  position: absolute;
+  top: 529px;
+  white-space: nowrap;
+}
+
+.popular .overlap-group2 {
+  height: 197px;
+  left: 105px;
+  position: absolute;
+  top: 231px;
+  width: 197px;
+}
+
+.popular .star-4-1 {
+  height: 88px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 88px;
+}
+
+.popular .star-4_space-gp {
+  align-items: flex-start;
+  display: flex;
+  gap: 35px;
+  height: 197px;
+  justify-content: center;
+  left: 0;
+  min-width: 197px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+}
+
+.popular .star-_-container {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-bottom: 0;
+  min-height: 157px;
+  width: 53px;
+}
+
+.popular .star-4 {
+  height: 32px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 32px;
+}
+
+.popular .star-4_7 {
+  align-self: flex-start;
+  height: 23px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 23px;
+}
+
+.popular .star-4_6 {
+  height: 32px;
+  margin-right: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 32px;
+}
+
+.popular .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 35px;
+  height: 199px;
+  margin-top: -1.0px;
+  min-width: 111px;
+}
+
+.popular .star-_-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 154px;
+  min-height: 199px;
+  width: 23px;
+}
+
+.popular .star-4_1 {
+  height: 23px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 23px;
+}
+
+.popular .star-4_5 {
+  height: 23px;
+  margin-left: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 23px;
+}
+
+.popular .star-_-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-bottom: 0;
+  min-height: 157px;
+  width: 53px;
+}
+
+.popular .star-4_3 {
+  align-self: flex-end;
+  height: 23px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 23px;
+}
+
+.popular .star-4_4 {
+  height: 32px;
+  margin-left: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 32px;
+}
+
+.popular .star__line-container {
+  height: 157px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 157px;
+}
+
+.popular .star_4_line2 {
+  height: 157px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.popular .star_4_line1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 157px;
+}
+
+.popular .menu-bold {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  left: 3px;
+  min-width: 24px;
+  padding: 0 2px;
+  position: absolute;
+  top: 14px;
+}
+
+.popular .menu-bold_1_ {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.popular .artworks-t4j-krxovp-1 {
+  height: 304px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 210px;
+  width: 304px;
+}

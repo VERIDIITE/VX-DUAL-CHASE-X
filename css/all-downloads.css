@@ -1,0 +1,586 @@
+/* screen - all-downloads */
+
+.all-downloads {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  gap: 1px;
+  height: 812px;
+  padding: 14px 7.2px;
+  width: 375px;
+}
+
+.all-downloads .menu-bold {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  margin-left: 1px;
+  min-width: 24px;
+  padding: 0 2px;
+}
+
+.all-downloads .menu-bold_1_ {
+  height: 16px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.all-downloads .overlap-group5 {
+  height: 750px;
+  margin-top: 19px;
+  position: relative;
+  width: 335px;
+}
+
+.all-downloads .overlap-group2 {
+  height: 750px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.all-downloads .star-container {
+  height: 184px;
+  left: 151px;
+  position: absolute;
+  top: 0;
+  width: 184px;
+}
+
+.all-downloads .star-1 {
+  height: 72px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 72px;
+}
+
+.all-downloads .star-1_2 {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 79.92px;
+  height: 162px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 162px;
+}
+
+.all-downloads .star-1_1 {
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 67.92px;
+  height: 138px;
+  left: 23px;
+  position: absolute;
+  top: 23px;
+  width: 138px;
+}
+
+.all-downloads .star-1_3 {
+  height: 40px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.all-downloads .star-1_4 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 40px;
+}
+
+.all-downloads .star-1_5 {
+  height: 40px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 2px;
+}
+
+.all-downloads .star-1_4-1 {
+  height: 2px;
+  left: 144px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 40px;
+}
+
+.all-downloads .rectangle-72 {
+  background-color: #3d2155;
+  border: 2px solid;
+  border-color: var(--black);
+  box-shadow: inset 5px 3px 6px #00000029;
+  filter: blur(50px);;
+  height: 706px;
+  left: 183px;
+  opacity: 0.54;
+  position: absolute;
+  top: 23px;
+  width: 115px;
+}
+
+.all-downloads .line-10 {
+  height: 6px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 306px;
+}
+
+.all-downloads .likes {
+  left: 180px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.all-downloads .collections {
+  left: 243px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 250px;
+  white-space: nowrap;
+}
+
+.all-downloads .polygon-3 {
+  height: 22px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 22px;
+}
+
+.all-downloads .polygon-4 {
+  height: 22px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 22px;
+}
+
+.all-downloads .line-11 {
+  height: 6px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 307px;
+}
+
+.all-downloads .ut_aa_054_drillguns {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 468px;
+  white-space: nowrap;
+}
+
+.all-downloads .collections-1 {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 35px;
+  font-weight: 700;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 134px;
+  white-space: nowrap;
+}
+
+.all-downloads .tn_hlw_120_toploop {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 620px;
+  white-space: nowrap;
+}
+
+.all-downloads .cwm_ytho_lofi_snare {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 544px;
+  white-space: nowrap;
+}
+
+.all-downloads .ftp_jch_120_hihat {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 354px;
+  white-space: nowrap;
+}
+
+.all-downloads .cwm_ytho_bass_reese {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 582px;
+  white-space: nowrap;
+}
+
+.all-downloads .iw_dys_05_flyaway {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 320px;
+  white-space: nowrap;
+}
+
+.all-downloads .ad {
+  -webkit-text-stroke: 1px var(--cyber-grape);
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 65px;
+  font-weight: 900;
+  left: 194px;
+  letter-spacing: 0;
+  line-height: 65px;
+  opacity: 0.09;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.all-downloads .group-52 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  left: 0;
+  min-width: 304px;
+  position: absolute;
+  top: 728px;
+}
+
+.all-downloads .icon-feather-home {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  min-width: 20px;
+}
+
+.all-downloads .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/path-6-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 24px;
+  margin-top: -1px;
+  min-width: 22px;
+  padding: 0.0px 6.7px;
+}
+
+.all-downloads .path-7 {
+  height: 13px;
+  object-fit: cover;
+  width: 9px;
+}
+
+.all-downloads .icon-feather-plus-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: center;
+  margin-left: 119px;
+  min-width: 22px;
+}
+
+.all-downloads .path-container {
+  background-image: url(../img/path-8-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: 24px;
+}
+
+.all-downloads .path-9 {
+  height: 11px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.all-downloads .path-10 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 11px;
+}
+
+.all-downloads .icon-heart-1 {
+  height: 22px;
+  margin-bottom: -0.53px;
+  margin-left: 118px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.all-downloads .heart-filled {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 320px;
+}
+
+.all-downloads .icon-heart {
+  height: 18px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.all-downloads .heart-filled-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 359px;
+}
+
+.all-downloads .heart-filled-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 403px;
+}
+
+.all-downloads .heart-filled-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 441px;
+}
+
+.all-downloads .heart-filled-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 479px;
+}
+
+.all-downloads .heart-filled-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 517px;
+}
+
+.all-downloads .heart-filled-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 555px;
+}
+
+.all-downloads .heart-filled-7 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 593px;
+}
+
+.all-downloads .icons-weather-ic-weather-bolt {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 231px;
+  min-width: 24px;
+  opacity: 0.36;
+  padding: 2.0px 4.2px;
+  position: absolute;
+  top: 78px;
+}
+
+.all-downloads .ic-weather-bolt {
+  height: 20px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.all-downloads .heart-filled-8 {
+  align-items: flex-end;
+  display: flex;
+  height: 24px;
+  justify-content: flex-end;
+  left: 262px;
+  min-width: 24px;
+  padding: 2.5px 2.5px;
+  position: absolute;
+  top: 631px;
+}
+
+.all-downloads .libary {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 57px;
+  white-space: nowrap;
+}
+
+.all-downloads .overlap-group3 {
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 240px;
+  width: 63px;
+}
+
+.all-downloads .instruments {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.all-downloads .polygon-1 {
+  height: 22px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.all-downloads .overlap-group4 {
+  height: 22px;
+  left: 97px;
+  position: absolute;
+  top: 240px;
+  width: 37px;
+}
+
+.all-downloads .genres {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.all-downloads .polygon-2 {
+  height: 22px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.all-downloads .iw_dys_05_percx {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 392px;
+  white-space: nowrap;
+}
+
+.all-downloads .ut_aa_51_africa {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 430px;
+  white-space: nowrap;
+}
+
+.all-downloads .tn_hlw_fx_round {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.all-downloads .sounds {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: 30px;
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
