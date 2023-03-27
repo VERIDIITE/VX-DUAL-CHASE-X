@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" id="search-input" placeholder="Search..." />
+    <div class="item item-1">Item 1</div>
+    <div class="item item-2">Item 2</div>
+    <div class="item item-3">Item 3</div>
+    <div class="item item-4">Item 4</div>
+    <div class="item item-5">Item 5</div>
+    <div class="item item-6">Item 6</div>
+    <div class="item item-7">Item 7</div>
+    <div class="item item-8">Item 8</div>
+    <div class="item item-9">Item 9</div>
+    <div class="item item-10">Item 10</div>
+    <script>
+      const searchInput = document.getElementById("search-input");
+
+      searchInput.addEventListener("input", function () {
+        const searchTerm = searchInput.value.toLowerCase();
+        const items = document.getElementsByClassName("item");
+
+        Array.from(items).forEach(function (item) {
+          const itemText = item.textContent.toLowerCase();
+          if (itemText.indexOf(searchTerm) !== -1) {
+            item.classList.remove("hidden");
+          } else {
+            item.classList.add("hidden");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
